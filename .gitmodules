@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "mccf1"]
+	path = mccf1
+	url = https://github.com/cran/mccf1
+	shallow = true
+	registered = true
